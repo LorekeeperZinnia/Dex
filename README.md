@@ -4,7 +4,7 @@ New Dex was planned to be a debugging suite. Only the Explorer part is completed
 It was discontinued more than a year ago, might as well just release.
 	
 This is the final version of this script.
-You are encouraged to edit, fork, do whatever with this. I pretty much won't be updating it anymore.
+You are encouraged to edit, fork, do whatever with this. I pretty much won't be updating it anymore. Pull requests probably won't be accepted.
 Though I would highly appreciate it if you kept the credits in the script. I put a lot of hours into this during the time I worked on it.
 
 I have converted this from ModuleScript format (I used to develop this in studio) to a file format, to make it easier for whoever wants to continue or edit this.
@@ -19,9 +19,36 @@ I have converted this from ModuleScript format (I used to develop this in studio
 2. Run build.py
 
 ## High Level Roadmap
-List of stuff that I planned do before I realized that I shouldn't be working on this anymore.
-- Terminal (basically command interface with useful commands (non troll or gross) to get around)
-- 
+List of stuff that I planned do before I realized that I shouldn't be working on this anymore. If you are really interested in continuing this, you could add this stuff and make New Dex the ultimate utility that I wanted it to be. I might be forgetting stuff since I haven't worked on it for so long.
+- Terminal
+	* basically command interface with useful commands (non troll or gross) to get around
+	* each command has all its funcs, state contained in a table
+- Debugging interface
+	* more than just a remotespy
+	* you can choose to hook any metamethod, instance func/prop/event/callback, or any func
+	* logging args/returns of those funcs (like a remotespy)
+	* realtime editing of your hooks (allowing easy debugging: arg apoofing, return spoofing, unhook) using script editor
+	* scripted filters
+	* save/load these configs
+	* default template would be set up to function like a remotespy
+- Explorer
+	* smart autofill for search
+	* more filters for search
+	* bookmarking / starring insts
+	* a lot of the things in right click that i planned but didn't finish
+- Properties
+	* Copy value on clipboard (what is displayed in the box, or formatted to be pasted into lua)
+	* Select object properties in explorer
+	* Tag Editor (I saw the new one on devforum recently, would be better as its own window)
+- Data viewing & finding
+	* the const, upval, etc searching
+	* list references of userdata, table, function (i wanted to make it so you can easily explore the references, opens new tab for each individual object)
+	* detailed view of selected function (env, consts, upvals, decompiled src, script path, references)
+	* easily create constant signatures
+	* thread exploring
+- Script viewer/editor
+	* some decent autofill
+	* info bar at bottom (line of error, line count, col count, etc)
 
 ## Missing stuff from old Dex
 Features that existed in old Dex that I didn't get to make. These should be the first things you add if you plan to continue / edit this.
