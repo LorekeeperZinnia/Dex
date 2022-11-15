@@ -14,6 +14,7 @@ If you feel too lazy to build, I have provided the built version in the releases
 - There is no cloneref protection, add it if you want
 - Some stuff can be optimized further, it's up to you if you want to do it
 - It may be detected by more stuff; I don't know what these detections are nor am I interested in fixing it
+- Some stuff may break when roblox releases deferred events. Ex: Selecting a duplicated instance
 
 ## To Build
 1. Ensure you have Python 3 (I use 3.9.0)
