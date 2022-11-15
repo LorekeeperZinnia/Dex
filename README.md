@@ -52,6 +52,13 @@ List of stuff that I planned do before I realized that I shouldn't be working on
 - Script viewer/editor
 	* some decent autofill
 	* info bar at bottom (line of error, line count, col count, etc)
+- Reference
+	* interactive api docs for instance props, funcs, etc
+	* docs for some other stuff such as 'Dex' global, plugin api, executor api, etc
+	* some tutorials with text, pics, and video (not doing video until roblox removes limit of 3 playing videos)
+- Plugins
+	* Easy way to add some stuff such as right click options, search filters, commands, etc
+	* Access to dex's api for windows, modules, etc
 
 ## Missing stuff from old Dex
 Features that existed in old Dex that I didn't get to make. These should be the first things you add if you plan to continue / edit this.
