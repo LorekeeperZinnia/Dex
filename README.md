@@ -7,7 +7,7 @@ This is the final version of this script.
 You are encouraged to edit, fork, do whatever with this. I pretty much won't be updating it anymore. Pull requests probably won't be accepted.
 Though I would highly appreciate it if you kept the credits in the script. I put a lot of hours into this during the time I worked on it.
 
-I have converted this from ModuleScript format (I used to develop this in studio) to a file format, to make it easier for whoever wants to continue or edit this.
+I have converted this from ModuleScript format (I used to develop this in studio) to a file format, to make it easier for whoever wants to continue or edit this. Build instructions are below.
 If you feel too lazy to build, I have provided the built version in the releases.
 
 ## Notes
@@ -18,6 +18,7 @@ If you feel too lazy to build, I have provided the built version in the releases
 ## To Build
 1. Ensure you have Python 3 (I use 3.9.0)
 2. Run build.py
+3. The executable script will be created as out.lua
 
 ## High Level Roadmap
 List of stuff that I planned do before I realized that I shouldn't be working on this anymore. If you are really interested in continuing this, you could add this stuff and make New Dex the ultimate utility that I wanted it to be. I might be forgetting stuff since I haven't worked on it for so long.
