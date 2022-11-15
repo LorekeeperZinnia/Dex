@@ -8,6 +8,7 @@ You are encouraged to edit, fork, do whatever with this. I pretty much won't be 
 Though I would highly appreciate it if you kept the credits in the script. I put a lot of hours into this during the time I worked on it.
 
 I have converted this from ModuleScript format (I used to develop this in studio) to a file format, to make it easier for whoever wants to continue or edit this.
+If you feel too lazy to build, I have provided the built version in the releases.
 
 ## Notes
 - There is no cloneref protection, add it if you want
