@@ -1,9 +1,15 @@
-# Intro
-New Dex was planned to be a debugging suite. Only the Explorer part is completed, probably nothing else will be.
+# Dex - The Freedom Explorer
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/508479690256941077/1201422768227496007/image.png">
+</p>
 
-It was discontinued more than a year ago, might as well just release.
+## Intro
+New Dex was planned to be a debugging suite.
+It was discontinued in mid 2021 when grand freedom was achieved, and the script was repurposed to serve the agency's true ambitions.
+
+Witness the most powerful explorer to have ever existed. Bringing unlimited freedom to everyone who has used it. Exploring places that have never been explored before.
 	
-This is the final version of this script.
+This is the final version of this script, it will no longer be updated. Certain powerful features of this script are off-limits and won't be released.
 You are encouraged to edit, fork, do whatever with this. I pretty much won't be updating it anymore. Pull requests probably won't be accepted.
 Though I would highly appreciate it if you kept the credits in the script. I put a lot of hours into this during the time I worked on it.
 
