@@ -1,6 +1,6 @@
 # Dex - The Freedom Explorer
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/508479690256941077/1201422768227496007/image.png">
+![Logo](/logo.png)
 </p>
 
 ## Intro
