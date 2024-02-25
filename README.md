@@ -1,7 +1,5 @@
 # Dex - The Freedom Explorer
-<p align="center">
 ![Logo](/logo.png)
-</p>
 
 ## Intro
 New Dex was planned to be a debugging suite.
