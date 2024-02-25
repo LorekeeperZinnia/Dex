@@ -71,6 +71,14 @@ Features that existed in old Dex that I didn't get to make. These should be the 
 - Settings menu
 - Tabs in script viewer
 
-## Server
+## What is not Included
+Certain features and extensions are private and are reserved for agency use. These are not included in the public release of Dex
+- Binary SaveInstance Module
+- Client <-> Server Bridge
+- Secret Service Panel (Executor + Output Viewer)
+- Datastore Editor
+- 3D Model Viewer
+
+## Community Server
 If you would like to find more information (such as outdated docs), or talk to others interested in this script, you may join the server:<br>https://discord.io/zinnia<br>
 Note that very limited to no support will be provided.
