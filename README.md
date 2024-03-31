@@ -80,5 +80,5 @@ Certain features and extensions are private and are reserved for agency use. The
 - 3D Model Viewer
 
 ## Community Server
-If you would like to find more information (such as outdated docs), or talk to others interested in this script, you may join the server:<br>https://discord.io/zinnia<br>
+If you would like to find more information (such as outdated docs), or talk to others interested in this script, you may join the server:<br>https://discord.gg/jnXFq2VBgU<br>
 Note that very limited to no support will be provided.
